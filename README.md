@@ -1,5 +1,7 @@
 # Morning Routine Automation using Cloud Mobile Run AI
 
+Demo: https://youtube.com/shorts/kRTF3MQi3u0
+
 ## Overview
 
 This project demonstrates an intelligent, context-aware morning routine automation system for Android devices. The system executes a predefined sequence of actions immediately after the user turns off their morning alarm, streamlining the transition from waking up to starting the day.
